@@ -5,13 +5,13 @@
 <h2>Install PlayersAreMobs to Spigot</h2>
 
 <b>1.</b> Download repository
-<b>2.</b> Move file `out/artifacts/PlayersAreMobs_jar/PlayersAreMobs.jar` to your `plugins` folder in spigot
+<b>2.</b> Move file <code>out/artifacts/PlayersAreMobs_jar/PlayersAreMobs.jar</code> to your <code>plugins</code> folder in spigot
 <b>3.</b> Restart your server.
 
 
 <h2>Commands and uses</h2>
-`/set_mob <mob name>` - Set you to mob class (zombie, skeleton, etc)
-`/iam` - Getting your class name
+<code>/set_mob <mob name></code> - Set you to mob class (zombie, skeleton, etc)
+<code>/iam</code> - Getting your class name
 
 <h3>Currently classes</h3>
 <ul>
