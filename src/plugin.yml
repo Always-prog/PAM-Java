@@ -1,0 +1,11 @@
+name: PlayersAreMobs
+main: PlayerAreMobs.main.PlayersAreMobs
+version: 1.0
+api-version: 1.13
+commands:
+  iam:
+    description: Узнать свой класс моба
+    usage: /iam
+  set_mob:
+    description: Поставить себе класс моба
+    usage: /set_mob <mob>
