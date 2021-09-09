@@ -51,11 +51,13 @@ public class PlayerHandler implements Listener {
 
             if (material == Material.WOODEN_SWORD || // Swords
                     material == Material.STONE_SWORD ||
+                    material == Material.GOLDEN_SWORD ||
                     material == Material.IRON_SWORD ||
                     material == Material.DIAMOND_SWORD ||
                     material == Material.NETHERITE_SWORD ||
                     material == Material.WOODEN_AXE || // axes
                     material == Material.STONE_AXE ||
+                    material == Material.GOLDEN_AXE ||
                     material == Material.IRON_AXE ||
                     material == Material.DIAMOND_AXE ||
                     material == Material.NETHERITE_AXE
