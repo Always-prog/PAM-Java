@@ -45,7 +45,6 @@ public class Sqlite {
             statement.executeUpdate();
         } catch (SQLException e) {
             System.out.println(e.getMessage());
-            System.out.println("fuck......");
         }
 
 
