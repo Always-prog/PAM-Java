@@ -20,3 +20,6 @@
   <li>skeleton</li>
   Can't use swords and axes for pvp.
  </ul>
+  /
+<h1>Video abot plugin</h1>
+  https://youtu.be/e7Wc_dj2yRI
