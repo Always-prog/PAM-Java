@@ -1,5 +1,3 @@
-# PlayersAreMobs
-
 <h1>Plugin for <b>Spigot</b></h1>
 
 <h2>Install PlayersAreMobs to Spigot</h2><br/>
